@@ -8,6 +8,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=990606385&text&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancalijesus@gmail.com?subject=Contacto&body=Hola%20Juan,%20me%20gustaría%20ponerme%20en%20contacto%20contigo.)
 
+<img src="https://komarev.com/ghpvc/?username=juancali999&style=flat-square&color=blue" alt="juancali999view"/>
+
 Me apasiona la tecnología y deseo compartir mis conocimientos y proyectos en programación y tecnologías en GitHub 👾. Aquí encontrarás repositorios de proyectos de la UPC, donde estudio Ingeniería de Software, incluyendo aplicaciones web y open source.
 
 ### Skills
