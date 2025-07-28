@@ -1,6 +1,6 @@
 <div align="center">
 
-### Welcome, I'm Juan Calisaya 👋
+## Welcome, I'm Juan Calisaya 👋
 
 </div>
 
@@ -82,7 +82,7 @@ Complementing this, I have strong knowledge in UX/UI design, project management 
 
 <div align="center">
 
-## 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats & Trophies
 
   <img src="https://github-readme-stats.vercel.app/api?username=juancali999&show_icons=true&theme=radical" height="124" />
   <img src="https://streak-stats.demolab.com/?user=JuanCali999&theme=highcontrast&border" height="124" />
