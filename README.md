@@ -101,6 +101,7 @@ Complementing this, I have strong knowledge in UX/UI design, project management 
 ### 📜 Certificates
 
 🎓 [Coursera Profile](https://www.coursera.org/user/1c86baa482ce4585bb78f0312bbbe895)
+
 👨‍💻 [Código Facilito Profile](https://codigofacilito.com/usuarios/juancalijesus)
 
 </div>
