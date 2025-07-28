@@ -84,9 +84,9 @@ Complementing this, I have strong knowledge in UX/UI design, project management 
 
 ## 📊 GitHub Stats & Trophies
 
-  <img src="https://streak-stats.demolab.com/?user=JuanCali999&theme=highcontrast&border" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juancali999&show_icons=true&theme=radical" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancali999&layout=compact&theme=radical" height="140" />
+  <img src="https://streak-stats.demolab.com/?user=JuanCali999&theme=highcontrast&border" height="110" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juancali999&show_icons=true&theme=radical" height="110" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancali999&layout=compact&theme=radical" height="110" />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JuanCali999&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
