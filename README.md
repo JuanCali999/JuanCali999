@@ -1,24 +1,113 @@
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlrNjYycWZ0MHU0djRzcjMxN2NwM2ZoejlpeGdoa2w5bGhyZjQ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq8wyY1Zfndp6Lu/giphy.gif" width="70"> Bienvenid@ a mi perfil de GitHub JuanCali
+<div align="center">
 
-![Banner de Juan Cali](github-header.png)
+### Welcome, I'm Juan Calisaya 👋
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Juan_Cali)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juancalijesus/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjesúscalisayasanchez)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=990606385&text&type=phone_number&app_absent=0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancalijesus@gmail.com?subject=Contacto&body=Hola%20Juan,%20me%20gustaría%20ponerme%20en%20contacto%20contigo.)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=juancali999&style=flat-square&color=blue" alt="juancali999view"/>
-
-Me apasiona la tecnología y deseo compartir mis conocimientos y proyectos en programación y tecnologías en GitHub 👾. Aquí encontrarás repositorios de proyectos de la UPC, donde estudio Ingeniería de Software, incluyendo aplicaciones web y open source 🌐
-
-### Skills 🖥️
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<p align="center">
+  Software Engineering Student @UPC | Full Stack Developer | Passionate about Scalable Software Architectures
 </p>
 
-## Star lists
+<p align="center">
+  <a href="https://juancali.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-juancali.is--a.dev-000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Juan_Cali"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/juancalijesus/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/juanjesúscalisayasanchez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=990606385"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:juancalijesus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancali999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancali999&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juancali999&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+I'm an 8th-semester Software Engineering student at UPC.
+
+I bring solid experience from multidisciplinary projects, encompassing both academic endeavors and pre-professional internships. I specialize in web and mobile development, adept at applying Agile methodologies, Domain-Driven Design (DDD), the MVC pattern, and Clean Architecture principles. 
+
+Complementing this, I have strong knowledge in UX/UI design, project management with tools like Jira and Trello, version control using Git and GitHub, and deployment/implementation with Docker and Azure.
+
+---
+
+<div align="center">
+
+### 🛠 Tech Stack
+
+#### 👨‍💻 Languages & Frameworks
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+
+#### ☁️ Databases, Cloud & Tools
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gherkin-5A69A6?style=flat&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rider-000000?style=flat&logo=rider&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JuanCali999&theme=highcontrast&border" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juancali999&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancali999&layout=compact&theme=radical" height="150" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanCali999&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📜 Certificates
+
+- 🎓 [Coursera Profile](https://www.coursera.org/user/1c86baa482ce4585bb78f0312bbbe895)
+- 👨‍💻 [Código Facilito Profile](https://codigofacilito.com/usuarios/juancalijesus)
+
+</div>
+
+---
+
+<p align="center"><i>“Code is not just syntax — it’s a mindset.”</i></p>
